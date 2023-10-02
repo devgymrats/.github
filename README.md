@@ -1,6 +1,6 @@
 # DevGymRats
 
-![DevGymRats Logo](https://tu-url-del-logo.com/logo.png)
+![DevGymRats Logo](https://static.displate.com/857x1200/displate/2022-06-05/62d7b1be9a1f1d7025a40abbcd84625b_b76260135a5f3571d35436528e4ca302.jpg)
 
 ## Descripción
 
